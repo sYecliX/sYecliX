@@ -15,11 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/syeclix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syeclix" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saygın-çelik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saygın-çelik" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/syeclix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="syeclix" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/syeclix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="syeclix" height="30" width="40" /></a>
-<a href="https://discord.gg/syeclix #4535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="syeclix #4535" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
